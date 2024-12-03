@@ -38,7 +38,7 @@ The project is **deployed online** for easy accessibility and demonstration.
   - **`App.js`**: Main entry point integrating components.
 
 ## Deployment
-The project has been deployed online using **Netlify** or **Vercel**. You can access the live version [here](#) (replace `#` with the deployment link).
+The project has been deployed online using **Vercel**. You can access the live version [here](https://dynamic-forms-azure.vercel.app/) (replace `#` with the deployment link).
 
 ## Requirements
 - React.js
@@ -59,7 +59,7 @@ The project has been deployed online using **Netlify** or **Vercel**. You can ac
    ```
 3. Run the project:
    ```bash
-   npm start
+   npm run start
    ```
 4. Access the application at `http://localhost:3000`.
 
@@ -118,5 +118,5 @@ Include screenshots of the application showcasing:
 ## Author
 **Aman Usmani**
 
-For any queries, feel free to reach out at [your-email@example.com].
+For any queries, feel free to reach out at [usmaniaman40@example.com].
 
