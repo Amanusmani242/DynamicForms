@@ -104,11 +104,7 @@ The project has been deployed online using **Vercel**. You can access the live v
 }
 ```
 
-## Screenshots
-Include screenshots of the application showcasing:
-1. Form selection dropdown.
-2. Dynamic form rendering.
-3. Table displaying submitted data.
+
 
 ## Learnings and Challenges
 - **Dynamic Rendering**: Learned to dynamically render components based on JSON inputs.
