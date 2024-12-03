@@ -38,7 +38,7 @@ The project is **deployed online** for easy accessibility and demonstration.
   - **`App.js`**: Main entry point integrating components.
 
 ## Deployment
-The project has been deployed online using **Vercel**. You can access the live version [here](https://dynamic-forms-azure.vercel.app/) (replace `#` with the deployment link).
+The project has been deployed online using **Vercel**. You can access the live version [here](https://dynamic-forms-azure.vercel.app/) .
 
 ## Requirements
 - React.js
